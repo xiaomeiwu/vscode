@@ -1,0 +1,8 @@
+{
+  "name": "vscode",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/xiaomeiwu/vscode",
+  "author": "xiaomeiwu <xiaomeiwu2020@outlook.com>",
+  "license": "MIT"
+}
